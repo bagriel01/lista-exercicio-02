@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.exe
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.deps.json
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.runtimeconfig.json
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.dll
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\bin\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.pdb
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.AssemblyInfo.cs
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.dll
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.pdb
+C:\Users\gabri\source\repos\lista de exercicio 2 exercicio 5\lista de exercicio 2 exercicio 5\obj\Debug\netcoreapp3.1\lista de exercicio 2 exercicio 5.genruntimeconfig.cache
