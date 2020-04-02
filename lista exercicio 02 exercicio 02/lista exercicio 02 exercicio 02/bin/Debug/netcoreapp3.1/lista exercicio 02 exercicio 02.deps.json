@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lista exercicio 02 exercicio 02/1.0.0": {
+        "runtime": {
+          "lista exercicio 02 exercicio 02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lista exercicio 02 exercicio 02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
