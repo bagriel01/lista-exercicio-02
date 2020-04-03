@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.exe
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.deps.json
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.runtimeconfig.json
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.dll
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\bin\Debug\netcoreapp3.1\lista 2 exercicio 10.pdb
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.AssemblyInfo.cs
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.dll
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.pdb
+C:\Users\gabri\source\repos\lista 2 exercicio 10\lista 2 exercicio 10\obj\Debug\netcoreapp3.1\lista 2 exercicio 10.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.exe
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.deps.json
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.runtimeconfig.json
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.dll
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\bin\Debug\netcoreapp3.1\lista 2 exercicio 7.pdb
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.AssemblyInfo.cs
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.dll
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.pdb
+C:\Users\gabri\source\repos\lista 2 exercicio 7\lista 2 exercicio 7\obj\Debug\netcoreapp3.1\lista 2 exercicio 7.genruntimeconfig.cache
